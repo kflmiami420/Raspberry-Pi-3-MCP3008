@@ -1,4 +1,8 @@
 # Raspberry-Pi-3-mcp3008-Analog-to-Digital-converter
+
+* Update It looks like this code will not work with the new CircuitPython MCP3XXX library
+
+
 Raspberry Pi 3 and MCP3008 Analog to Digital Converter .   Used to convert Analog signal from Adafruit 1733 Anemometer to a digital Signal. 
 
 My project is using an MCP3008 to get the voltage signal from an Adafruit 1733 Anemometer to be able to be used by a raspberry pi 3 with python 
