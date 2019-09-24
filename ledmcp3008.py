@@ -1,3 +1,5 @@
+#for use with led Unknown from github search led and mcp3008
+
 # Importing modules
 import spidev # To communicate with SPI devices
 from numpy import interp	# To scale values
